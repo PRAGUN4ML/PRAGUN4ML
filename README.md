@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Pragun 👋</h1>
+<h3 align="center">Beginner in AI • Learning PyTorch & TensorFlow</h3>
 
-<!--
-**PRAGUN4ML/PRAGUN4ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🧠 I'm learning **machine learning from scratch**
+- 🐍 Mainly working with **Python + PyTorch**  
+- 💻 I use **VS Code** for all my projects  
+- 🎯 Goal: understand how neural networks work internally  
+- 🚢 Currently building: **Titanic Survival Prediction Model**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills (Beginner Level)
+- Python  
+- NumPy  
+- Pandas  
+- PyTorch  
+- TensorFlow (basic)
+
+---
+
+### 🔥 What I'm Working On
+- Cleaning and preprocessing data manually  
+- Building a neural network without shortcuts  
+- Creating my first Kaggle submission  
+
+---
+
+### 🌱 Learning Next
+- Activation functions  
+- Optimizers  
+- Loss functions  
+- Training loops  
+- Basic math behind NNs
+
+
+
+
+  - machine-rtx 5070ti
+
+---
+
+<h3 align="center">Thanks for visiting 👋</h3>
