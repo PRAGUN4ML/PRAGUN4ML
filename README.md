@@ -42,4 +42,4 @@
 
 ---
 
-<h3 align="center">Thanks for visiting 👋</h3>
+<h3 align="center">enjoy 👋</h3>
