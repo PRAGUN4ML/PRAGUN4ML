@@ -3,12 +3,12 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - 🧠 I'm learning **machine learning from scratch**
-- 🐍 Mainly working with **Python + PyTorch**  
+-  Mainly working with **Python + PyTorch**  
 - 💻 I use **VS Code** for all my projects  
-- 🎯 Goal: understand how neural networks work internally  
-- 🚢 Currently building: **Titanic Survival Prediction Model**
+-  Goal: understand how neural networks work internally  
+- 
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 🌱 Learning Next
+### Learning Next
 - Activation functions  
 - Optimizers  
 - Loss functions  
